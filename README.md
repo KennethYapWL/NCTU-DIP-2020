@@ -24,4 +24,4 @@ The references you have read is the key point to make this success, don't try to
 The useful articles are provided in the report in this folder. Key Point: the concept of JPEG components, JFIF format, how to store the components in JFIF format to the JPEG file.
 
 
-Note: If I am not lazy enough, I probably will try to implement these assignemnts with different program languages.LOL
+Note: If I am not lazy enough, I probably will try to implement these assignments with different program languages.LOL
