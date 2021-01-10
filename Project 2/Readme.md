@@ -1,2 +1,2 @@
-### Read Me
-This folder consists the files used for assignment 2.
+### Assignment 2
+This folder contains the files used for assignment 2.
