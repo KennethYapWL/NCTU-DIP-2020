@@ -1,6 +1,6 @@
 # NCTU Image Processing 2020
 This class is teached by Prof Tsaipei Wang.
-Three assignments, two exams, and a final presentation have been done during all the classes.
+Three assignments, two exams, and a final presentation are needed to be done during all the classes.
 
 Here are some information about the assigments and final presentation.
 ## 1. Final Presentation.
