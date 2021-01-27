@@ -32,4 +32,5 @@ The useful articles are provided in the report in this folder. Key Point: the co
 Mark Achieved: 92/100
 
 
+---
 Note: If I am not lazy enough, I probably will try to implement these assignments with different program languages.LOL
