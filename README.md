@@ -7,7 +7,7 @@ Here is some information about these assignments and the final
 Classmates will be needed to group and make a presentation for a topic that is not discussed during the class.
 My group was assigned the topic of image watermarking, the folder "Final Presentation" contains the presentation ppt file, and a final report.
 
-Mark Achieved: (oral)92/100 + (report)88/100
+Mark Achieved: (oral) 92/100 + (report) 88/100
 
 ## 2. First Assignment.
 This assignment is about doing experiments on provided 6 images with image enhancement techniques, such as smoothing, sharpening, contrast adjustment, etc.
@@ -31,6 +31,3 @@ The useful articles are provided in the report in this folder. Key Point: the co
 
 Mark Achieved: 92/100
 
-
----
-Note: If I am not lazy enough, I probably will try to implement these assignments with different program languages.LOL
